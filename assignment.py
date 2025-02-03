@@ -8,8 +8,11 @@ def format_string(name, age):
         str: Formatted string
     """
     return(f"My name is {name} and I am {age} years old")
+    
 
+    
 def conditional_check(number):
+    
     """
     Check if a number is greater, lesser, or equal to 10.
     Args:
